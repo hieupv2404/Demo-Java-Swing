@@ -1,0 +1,23 @@
+
+=	java:S108(")Either remove or fill this block of code.(˜£­
+B
+java:S1172-",Remove this unused method parameter "index".(Ü¾ð
+=	java:S108>")Either remove or fill this block of code.(˜£­
+Q	java:S125T"<This block of commented-out lines of code should be removed.(ÞÖ™Å
+P
+java:S1854¡"9Remove this useless assignment to local variable "check".(‹®Ç
+@
+java:S1659€"$Declare "search" on a separate line.(Óôˆ²ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É÷ž•þÿÿÿÿ
+e
+java:S2095S"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÉøÙ´
+k
+java:S2095©"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(»õâèýÿÿÿÿ
+e
+java:S2095l"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÉøÙ´
+j
+java:S2095G"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+j
+java:S2095b"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+j
+java:S2095y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ

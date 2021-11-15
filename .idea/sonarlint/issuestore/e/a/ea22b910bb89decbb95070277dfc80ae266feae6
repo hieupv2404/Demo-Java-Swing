@@ -1,0 +1,14 @@
+
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ž¼ø
+u
+java:S1450"\Remove the "passwordlabel" field and declare it as a local variable in the relevant methods.(‰”¸ïýÿÿÿÿ
+p
+java:S1450"\Remove the "userNameLabel" field and declare it as a local variable in the relevant methods.(«†á«
+š
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ Òþüÿÿÿÿ
+H
+java:S6212"/Declare this local variable with "var" instead.(—¦Ä‹úÿÿÿÿ
+H
+java:S6212"/Declare this local variable with "var" instead.(ÈƒÔøøÿÿÿÿ
+C
+java:S6212"/Declare this local variable with "var" instead.(Å§ÄÔ
